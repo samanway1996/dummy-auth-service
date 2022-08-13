@@ -1,0 +1,9 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON2 = "2535ab7d-5cd8-5a07-80ac-9b1792aadce3"
+JSONTables = "b9914132-a727-11e9-1322-f18e41205b0b"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
